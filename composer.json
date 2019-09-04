@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "laravel/framework": "5.8.*",
+        "laravel/framework": "5.*",
         "johnylemon/explainer": "^1.0"
     },
     "autoload": {
